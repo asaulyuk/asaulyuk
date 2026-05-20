@@ -20,8 +20,6 @@ The other thing that shaped how I think: Ukrainian OSINT. A small country with n
 
 That is the intersection I work in.
 
-Most people are one or the other. Analysts who can read the data but will not make the call. Strategists who trust their instincts but not the numbers. The work I do sits at both. Reading what the signals say and knowing what to do about it are not separate skills. Treating them as separate is where most decisions go wrong.
-
 ---
 
 [asaulyuk.com](http://asaulyuk.com) · [LinkedIn](https://www.linkedin.com/in/markoasaulyuk/) · [Medium](https://medium.com/@marko.asaulyuk) 

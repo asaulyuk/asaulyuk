@@ -1,8 +1,11 @@
 # Marko Asaulyuk /ɑsɐuˈlʲuk/
 
 MBA candidate at San Francisco State University. 
+
 Undergraduate in Business Administration, Marketing. 
+
 Ukrainian Orthodox. 
+
 San Francisco, CA.
 
 ---

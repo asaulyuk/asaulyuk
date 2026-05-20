@@ -1,21 +1,24 @@
 # Marko Asaulyuk /ɑsɐuˈlʲuk/
 
-Marketing has a theory problem. Not too little of it, but too much buried too deep to use when it matters. Kotler holds. Ogilvy holds. Porter holds. What's changed is the distance between knowing them and acting on them under pressure.
+MBA candidate at San Francisco State University. 
+Undergraduate in Business Administration, Marketing. 
+Ukrainian Orthodox. 
+San Francisco, CA.
 
-The chess parallel keeps coming up. A player who has studied theory for years still freezes under time pressure. Put an engine alongside them, and the picture changes. The engine finds the best move. Playing it is a different question. Internal politics, legal sign-off, and stakeholder priorities all have a vote. But knowing the move exists changes how you decide. You stop blundering. You stay on the board. One practitioner, playing at full strength. Closing that gap is the work.
+---
 
-## Thinking
+Business is drowning in data and starving for decisions.
 
-For personal projects, the filter is structural: where is the gap in current market players that they cannot fix without rewriting their own business model? Features get copied. The constraints a company accumulates from its own growth are harder to undo. That's the terrain worth entering.
+Most AI pilots fail. Most startups build products before they understand the market. And the ones that do look at demand often get it wrong in a different way, because a consumer cannot ask for what history has not yet shown them. Demand signals tell you what people want from the world they already live in. They do not tell you what the world is about to need.
 
-Everything gets stress-tested before it goes out. That's why staying ahead of deadlines matters. Not for comfort, but to have time to break the work before someone else does.
+The companies that win are not the ones with the most data. They are the ones that bring theory to the data. A competitor who understands why a market behaves the way it does will consistently outmaneuver one who only tracks how it behaves. Data times theory compounds. Data alone does not.
 
-On teams: recognize what each person already does well and build around it, not manage around it.
+The other thing that shaped how I think: Ukrainian OSINT. A small country with no access to an adversary's internal systems built some of the most rigorous intelligence operations in modern history, from public records, open signals, and disciplined inference. That is a proof of concept. You do not need internal data to understand a business, a competitor, or a market. You need the right frameworks and the patience to read what is already visible.
 
-## Work
+That is the intersection I work in.
 
-Multiple projects in progress. Not everything is open source.
+Most people are one or the other. Analysts who can read the data but will not make the call. Strategists who trust their instincts but not the numbers. The work I do sits at both. Reading what the signals say and knowing what to do about it are not separate skills. Treating them as separate is where most decisions go wrong.
 
-## Background
+---
 
-MBA candidate at San Francisco State University. Ukrainian Orthodox.
+[asaulyuk.com](http://asaulyuk.com) · [LinkedIn](https://www.linkedin.com/in/markoasaulyuk/) · [Medium](https://medium.com/@marko.asaulyuk) 

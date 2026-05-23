@@ -16,9 +16,7 @@ Most AI pilots fail. Most startups build products before they understand the mar
 
 The companies that win are not the ones with the most data. They are the ones that bring theory to the data. A competitor who understands why a market behaves the way it does will consistently outmaneuver one who only tracks how it behaves. Data times theory compounds. Data alone does not.
 
-The other thing that shaped how I think: Ukrainian OSINT. A small country with no access to an adversary's internal systems built some of the most rigorous intelligence operations in modern history, from public records, open signals, and disciplined inference. That is a proof of concept. You do not need internal data to understand a business, a competitor, or a market. You need the right frameworks and the patience to read what is already visible.
-
-That is the intersection I work in.
+That is the intersection I think in.
 
 ---
 

@@ -1,4 +1,5 @@
-# Marko Asaulyuk /ɑsɐuˈlʲuk/
+# Marko Asaulyuk 
+# /ɑsɐuˈlʲuk/
 
 MBA candidate at San Francisco State University. 
 

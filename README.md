@@ -4,7 +4,7 @@
 MBA candidate at San Francisco State University. 
 Ukrainian Orthodox. 
 
-San Francisco, CA.
+San Francisco, CA
 
 ---
 

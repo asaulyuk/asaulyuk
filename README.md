@@ -8,13 +8,17 @@ San Francisco, CA
 
 ---
 
-Business is drowning in data and starving for decisions.
+Business graduate student studying decision science, cybersecurity, market intelligence, and strategy in AI-driven environments.
 
-Most AI pilots fail. Most startups build products before they understand the market. And the ones that do look at demand often get it wrong in a different way, because a consumer cannot ask for what history has not yet shown them. Demand signals tell you what people want from the world they already live in. They do not tell you what the world is about to need.
+Current focus areas:
 
-The companies that win are the ones that bring theory to the data. A competitor who understands why a market behaves as it does will consistently outmaneuver one who only tracks its behavior. Data times theory compounds. Data alone is noise.
+* AI Governance
+* Marketing Intelligence
+* Decision Support Systems (DSS)
+* Cyberrisk Assessment
+* Business Strategy
 
-That is the intersection I think in.
+Interested in competitive intelligence, strategic adaptation, and decision-making under uncertainty.
 
 ---
 
